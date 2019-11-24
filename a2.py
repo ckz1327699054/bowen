@@ -1,4 +1,6 @@
 #! /usr/bin/python
 # -*- coding:utf-8 -*-
-print("hello world")
-qwer
+a=1
+b=2
+sum=a+b
+print(sum)
